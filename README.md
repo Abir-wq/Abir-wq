@@ -6,7 +6,12 @@ I'm an Urban and Regional Planning graduate with a strong interest in **Geospati
 
 I enjoy working at the intersection of **cities, geography, environment, technology, and data** to better understand spatial problems and support evidence-based planning and decision-making.
 
-Currently, I am pursuing my master's studies in **Land Management and Geospatial Science at the Technical University of Munich (TUM)**.
+Currently: 
+Pursuing an M.Sc. in Land Management & Geospatial Science at TUM
+Exploring Python for GIS and spatial data analysis
+Learning Web GIS and interactive mapping
+Exploring remote sensing and Earth observation workflows
+Building projects combining GIS, spatial data, and urban/environmental analysis
 
 ---
 
