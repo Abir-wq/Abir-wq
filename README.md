@@ -1,5 +1,8 @@
 # Hi, I'm Abir Ahmed 👋
 
+<img width="1441" height="622" alt="image" src="https://github.com/user-attachments/assets/f67302c6-cb25-4cee-91e5-abbc8cc0d592" />
+
+
 ### Urban Planner | Geospatial & Remote Sensing Enthusiast | Environmental & Spatial Data Researcher
 
 I'm an Urban and Regional Planning graduate with a strong interest in **Geospatial Science, GIS, Remote Sensing, Urban Analytics, Environmental Planning, and Spatial Data Science**.
