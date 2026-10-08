@@ -1,18 +1,5 @@
 # Hi, I'm Abir Ahmed 👋
-
 ![Banner](banner.svg)
-
-<table>
-  <tr>
-    <td width="190" valign="middle">
-      <img src="newimage.png" width="160" alt="Abir Ahmed">
-    </td>
-    <td valign="middle">
-      <h2>ABIR AHMED</h2>
-      <p>Urban Planning • GIS • Remote Sensing • Geospatial Science</p>
-    </td>
-  </tr>
-</table>
 
 ### Urban Planner | Geospatial & Remote Sensing Enthusiast | Environmental & Spatial Data Researcher
 
