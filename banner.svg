@@ -1,22 +1,45 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="ABIR AHMED — Urban Planning, GIS, Remote Sensing, Geospatial Science">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img"
+  aria-label="ABIR AHMED — Urban Planning, GIS, Remote Sensing, Geospatial Science">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#0b1220"/>
       <stop offset="1" stop-color="#111827"/>
     </linearGradient>
+
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#000000" flood-opacity="0.35"/>
+    </filter>
+
+    <!-- Circle crop for your photo -->
+    <clipPath id="avatarClip">
+      <circle cx="170" cy="160" r="78"/>
+    </clipPath>
   </defs>
 
-  <rect width="1200" height="300" fill="url(#bg)"/>
-  <rect y="292" width="1200" height="8" fill="#38bdf8" opacity="0.85"/>
+  <!-- Background -->
+  <rect width="1200" height="320" fill="url(#bg)"/>
+  <rect y="312" width="1200" height="8" fill="#38bdf8" opacity="0.9"/>
 
-  <text x="70" y="135" fill="#ffffff"
-        font-family="Inter, Segoe UI, Roboto, Arial, sans-serif"
-        font-size="72" font-weight="700" letter-spacing="1">
+  <!-- Photo (uses your file: newimage.png) -->
+  <g filter="url(#shadow)">
+    <!-- white ring -->
+    <circle cx="170" cy="160" r="84" fill="#ffffff" opacity="0.95"/>
+    <!-- photo clipped into circle -->
+    <image href="newimage.png" x="92" y="82" width="156" height="156"
+           preserveAspectRatio="xMidYMid slice" clip-path="url(#avatarClip)"/>
+    <!-- subtle dark outline -->
+    <circle cx="170" cy="160" r="84" fill="none" stroke="#0b1220" stroke-opacity="0.35" stroke-width="2"/>
+  </g>
+
+  <!-- Text -->
+  <text x="300" y="150" fill="#ffffff"
+        font-family="Segoe UI, Roboto, Arial, sans-serif"
+        font-size="70" font-weight="700" letter-spacing="1">
     ABIR AHMED
   </text>
 
-  <text x="70" y="195" fill="#cbd5e1"
-        font-family="Inter, Segoe UI, Roboto, Arial, sans-serif"
+  <text x="300" y="208" fill="#cbd5e1"
+        font-family="Segoe UI, Roboto, Arial, sans-serif"
         font-size="28" font-weight="500">
     Urban Planning • GIS • Remote Sensing • Geospatial Science
   </text>
