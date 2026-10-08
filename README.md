@@ -1,7 +1,6 @@
 # Hi, I'm Abir Ahmed 👋
 
-<img width="1441" height="622" alt="image" src="https://github.com/user-attachments/assets/f67302c6-cb25-4cee-91e5-abbc8cc0d592" />
-
+![ABIR AHMED banner](banner.svg)
 
 ### Urban Planner | Geospatial & Remote Sensing Enthusiast | Environmental & Spatial Data Researcher
 
