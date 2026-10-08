@@ -5,7 +5,7 @@
 <table>
   <tr>
     <td width="190" valign="middle">
-      <img src="new image.png" width="160" alt="Abir Ahmed">
+      <img src="newimage.png" width="160" alt="Abir Ahmed">
     </td>
     <td valign="middle">
       <h2>ABIR AHMED</h2>
