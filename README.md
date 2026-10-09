@@ -1,7 +1,7 @@
 # Hi, I'm Abir Ahmed 👋
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Abir-wq/Abir-wq/main/newimage.png" alt="Abir Ahmed Banner" width="100%">" width="100%">
+  <img src="https://raw.githubusercontent.com/Abir-wq/Abir-wq/main/newimage.png" alt="Abir Ahmed Banner" width="100%">
 </p>
 
 <p align="center">
